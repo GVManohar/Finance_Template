@@ -1,0 +1,84 @@
+@media (max-width: 767px) {
+    .finance {
+    padding: 1rem 1rem !important;
+}
+img {
+    width: 100% !important;
+}
+.body {
+    padding: 0rem 0rem !important;
+}
+.content {
+    padding: 0 !important;
+    padding-top:1rem !important;
+}
+ul {
+    padding: 0 !important;
+}
+li {
+    padding: 0px 10px !important;
+    font-size: 15px !important;
+}
+}
+
+
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 1026px) {
+    .finance {
+    padding: 1rem 1rem !important;
+}
+img {
+    width: 100% !important;
+}
+.content {
+    padding: 0rem 0rem !important;
+}
+li {
+ padding: 1px 7px !important;
+}
+	}
+
+
+
+
+	.finance {
+    padding: 1rem 8rem;
+}
+.task {
+    box-shadow: 0 0.25rem 0.5625rem -0.0625rem rgb(0 0 0 / 0%), 0 0.275rem 1.25rem -0.0625rem rgb(0 0 0 / 44%);
+    padding: 0rem 3rem;
+    padding-top: 3rem;
+}
+	li {
+    list-style: none;
+    float: left;
+    padding: 1px 15px;
+    font-size: 16px;
+    text-decoration: none;
+}
+h1 {
+    font-weight: bold;
+}
+a {
+    color: #1c1cbe;
+}
+h5 {
+    color: #1c1cbe;
+}
+.content {
+    padding: 3rem 0rem;
+}
+.body {
+    padding: 3rem 0rem;
+}
+button.btn.btn-primary {
+    border: 0;
+    border-radius: 0;
+    font-weight: 500;
+    background-color: #2a2a8d;
+}
